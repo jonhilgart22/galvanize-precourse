@@ -1,13 +1,11 @@
-
-![](images/galvanizeU-logo.svg)
-
+![](images/galvanizeU-logo.png)
 
 Precourse Materials
 ====
 
 __Welcome!__
 
-We are excited that youd decided to join the Master of Science in Data Science. The next year will be interesting (and a lot of work). People come to the program from a variey of backgrounds, we love that diversity but we want everyone to be on the same page on the first day. We have designed this Precourse to help you learn some the technical skills that you will need to succedd in the program.
+We are excited that youd decided to join the Master of Science in Data Science. The next year will be fun (and a lot of work). People come to the program from a variey of backgrounds, we love that diversity but we want everyone to be on the same page on the first day of classes. We have designed this Precourse to help you learn some of the technical skills that you will need to succedd in the program.
 
 > "I wish I did more precourse stuff."    
 
@@ -15,6 +13,6 @@ We are excited that youd decided to join the Master of Science in Data Science. 
 
 Please skim all of the materials before getting started on the individual lessons.
 
-Before classes begin, you are expected read each lesson, complete the assignments, and turn them in. Please complete and hand in each lesson sequentially.
+You are expected read each lesson, complete the assignments, and turn them in. Please complete and hand in each lesson sequentially.
 
 
