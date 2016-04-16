@@ -32,7 +32,7 @@ Assignment Overview
 
 #### 1. Practice with built-ins
 
-Fill in the functions in [1_general_python_pratice_problems.ipynb](1_general_python_pratice_problems.ipynb).
+Fill in the functions in [1_python_fundamentals.ipynb](1_python_fundamentals.ipynb).
 
 These are all one-liners that use a bunch of handy built-in functions.
 
@@ -42,7 +42,7 @@ These are all one-liners that use a bunch of handy built-in functions.
 FizzBuzz is infamous for being a simple programming problem that [a lot of software
 engineers struggle with](http://blog.codinghorror.com/why-cant-programmers-program/).
 
-Implement the function `fizzbuzz` in [3_fizzbuzz.ipynb](3_fizzbuzz.ipynb).
+Implement the function `fizzbuzz` in [2_fizzbuzz.ipynb](2_fizzbuzz.ipynb).
  
 #### 2. Generating text
 
