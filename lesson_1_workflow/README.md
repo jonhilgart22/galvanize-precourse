@@ -66,12 +66,13 @@ We do much of [programming paired](https://en.wikipedia.org/wiki/Pair_programmin
 
 When you're working solo, go ahead and do whatever you'd like. Note however that it'll be easier to get help from the faculty if you're following the Galvanize Way.
 
+---
 Recap
 ---
 1. Install and make sure the tools are working on your computer
 1. Keep a tight feedback loop when writing code
 	- Write, run, repeat
- 	- Jupyter Notebook is our preferred environment
+ 	- Jupyter Notebook running Python 3 is our preferred environment
 1. Use git and GitHub
 	- __A__lways __B__e __C__ommitting (ABC), aka saving your code
 	- Sharing is caring so use GitHub for social coding

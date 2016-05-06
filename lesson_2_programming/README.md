@@ -8,7 +8,7 @@ __Read all instructions below, then fill in the functions provided for you the J
 
 Practice makes perfect, therefore our first official Galvanize assignments will be just that. Practicing python. In particular we'll be getting more comfortable with Python built-in data structures and functions.
 
-We are __not__ going to turn you into software eningeers. However, we will be devloping computational thinking. Programming is one manifestation of computational thinking. Programming is the science of abstraction: creating the right model for a problem, representing it in a computer, and then devising appropriate automated techniques to solve the problem within the model. Programming in Python encourages computational thinking at the right level of abstraction.
+We are __not__ going to turn you into software engineers. However, we will be developing computational thinking. Programming is one manifestation of computational thinking. Programming is the science of abstraction: creating the right model for a problem, representing it in a computer, and then devising appropriate automated techniques to solve the problem within the model. Programming in Python encourages computational thinking at the right level of abstraction.
 
 The course will heavily use Python for projects and homework. It is not necessary to be an expert in Python coming into the course (that is what we will teach you!) but the most familiar with the basics you are, the easier the program will be.
 
@@ -30,12 +30,11 @@ Resources
 Assignment Overview
 ----
 
+TODO: redo this section after writing the code
+
 #### 1. Practice with built-ins
 
 Fill in the functions in [1_python_fundamentals.ipynb](1_python_fundamentals.ipynb).
-
-These are all one-liners that use a bunch of handy built-in functions.
-
 
 #### 3. Fizz Buzz fun with Python
 
