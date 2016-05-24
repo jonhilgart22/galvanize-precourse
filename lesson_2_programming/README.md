@@ -30,21 +30,21 @@ Resources
 Assignment Overview
 ----
 
-TODO: redo this section after writing the code
+#### 1. Practice manipulating numbers
 
-#### 1. Practice with built-ins
+Fill in the functions in [1_number_fundamentals.ipynb](1_number_fundamentals.ipynb).
 
-Fill in the functions in [1_python_fundamentals.ipynb](1_python_fundamentals.ipynb).
+#### 2. Practice manipulating text
 
-#### 3. Fizz Buzz fun with Python
+Fill in the functions in [2_text_fundamentals.ipynb](2_text_fundamentals.ipynb).
 
-FizzBuzz is infamous for being a simple programming problem that [a lot of software
-engineers struggle with](http://blog.codinghorror.com/why-cant-programmers-program/).
+##### 3. Practice common programming operations
 
-Implement the function `fizzbuzz` in [2_fizzbuzz.ipynb](2_fizzbuzz.ipynb).
+Fill in the functions in [3_operations.ipynb](3_operations.ipynb).
+
+#### 4. Fizz Buzz fun with Python
+
+FizzBuzz is infamous for being a simple programming problem that programmers can struggle with.
+
+Implement the function `fizzbuzz` in [4_fizzbuzz.ipynb](4_fizzbuzz.ipynb).
  
-#### 2. Generating text
-
-Fill in the functions `word_counts`, `associated_words` and `make_random_story` in [2_processing_words_in_python.ipynb](2_processing_words_in_python.ipynb). These will give you practice with reading files, strings and dictionaries.
-
-Take a look at the [Collections module](https://docs.python.org/2/library/collections.html), in particular `DefaultDict` and `Counter` may simplify your code.
