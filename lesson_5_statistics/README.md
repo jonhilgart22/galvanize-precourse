@@ -25,15 +25,15 @@ and will be calling the functions in the last cell, e.g.
 
 ```
 population = load_pickle('population.pkl')
-print 'First 5 element of the population: ', population[:5]
+print('First 5 element of the population: ', population[:5])
 sample_100 = draw_sample(population, 100)
 sample_1000 = draw_sample(population, 1000)
 population_mean = get_mean(population)
 sample_100_mean = get_mean(sample)
 sample_1000_mean = get_mean(sample)
-print 'Population mean: ', population_mean
-print 'Sample 100 mean: ', sample_100_mean
-print 'Sample 1000 mean: ', sample_1000_mean
+print('Population mean: ', population_mean)
+print('Sample 100 mean: ', sample_100_mean)
+print('Sample 1000 mean: ', sample_1000_mean)
 ...
 ```
 
