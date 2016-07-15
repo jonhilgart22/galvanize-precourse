@@ -76,3 +76,6 @@ Recap
 1. Use git and GitHub
 	- __A__lways __B__e __C__ommitting (ABC), aka saving your code
 	- Sharing is caring so use GitHub for social coding
+    
+    "Test commit"
+    
