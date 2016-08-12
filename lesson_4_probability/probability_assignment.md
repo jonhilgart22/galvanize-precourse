@@ -6,14 +6,26 @@
 
    **(Combinatorics)**
 
-   ```Your answer here```
+   
+
+   Probability of first Uber arriving is (2/5) 
+   Probability of second Uber arriving is (1/4)
+   Probability of both Ubers arriving is (1/5*1/4) = 2/20  = 1/10
+
+   Probability of first Lyft arriving is (3/5)
+   Probability of second Lyft arriving is (2/4)
+   Probability of third Lyft arriving is (1/3)
+   Probability of all three Lyfts arriving first  (3/5 * (2/4) * 1/3)= 6/60 = 1/10
+
 
 2. Consider a group of 20 people. If everyone shakes hands with everyone else,
    how many handshakes take place?
 
    **(Combinatorics)**
 
-   ```Your answer here```
+   20!C2! = 20! / (2!(18!)) = 380/2 = 190 handshakes
+
+
 
 3. A worker has asked her supervisor for a letter of recommendation for a
    new job. She estimates that there is an 80 percent chance that she will
@@ -27,20 +39,42 @@
 
    (a)  How certain is she that she will receive the new job offer?
 
-   ```Your answer here```
+   P(get the job | strong recommendation ) = .8
+   P( get the job | moderately good recommendation) = .4
+   P(get the job | weak recommendation ) = .1
+   P(strong recommendation) = .7
+   P(moderate recommendation) = .2
+   P(weak recommendation) = .1
+
+   P (Get Job and Strong Rec) / P(Strong Rec) = .8   P (Get Job and Strong Rec) = .8*.7 = .56
+   P (Get Job and  Moderate Rec) / P(Moderate Rec) = .4   P (Get Job and Moderate Rec) = .4 * .2 = .08
+   P (Get Job and  Weak Rec) / P(Weak Rec) = .1   P (Get Job and Weak Rec) = .1 * .1 = .01
+
+   P(Get Job) = .56 + .08 + .01 = .65
+
+
 
    (b)  Given that she does receive the offer, how likely should she feel
         that she received a strong recommendation? a moderate recommendation?
         a weak recommendation?
 
-   ```Your answer here```
+       P(Strong Rec | Get Job)  = P(Strong Rec and Get Job) / P(Get Job) = .56 / .65 = .86
+       P(Moderate Rec | Get Job) = P(Moderate Rec and Get Job) / P(Get Job) = .08 / .65 = .12
+       P(Weak Rec | Get Job) = P(Weak Rec and Get Job) / P(Get Job) = .01 / .65 = .015
+
 
    (c)  Given that she does not receive the job offer, how likely should she
         feel that she received a strong recommendation?
         a moderate recommendation? a weak recommendation?
 
-   ```Your answer here```
+   P(No Job) = 1-P(Get Job) = 1-.65 = .35
+   P(no Job | Strong Rec) = 1-.8 = .2
+   P(No Job | Moderate Rec) = 1-.4 = .6
+   P(No Job| Weak Rec) = 1-.1 = .9
 
+   P(Strong Rec | No Job ) =  P(Strong Rec and No Job) / P( No Job) = (.7*.2 ) / .35 = .4
+   P(Moderate Rec | No Job ) =  P(Moderate Rec and No Job) / P( No Job) =(.2*.6) / .35 = .343
+   P(Weak Rec | No Job ) =  P(Weak Rec and No Job) / P( No Job) = ((.1*.9)) / .35 = .257
 
 4. A simplified model for the movement of the price of a stock supposes that
    on each day the stock’s price either moves up 1 unit with probability p
